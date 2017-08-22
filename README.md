@@ -1,19 +1,15 @@
 client
 ========
 
-A microservice that does micro things.
+Common library that does conversion from rancher types to docker, containerd and k8s. The project is in-progress and the real 
+client repo is in [https://github.com/rancher/go-rancher]
 
 ## Building
 
 `make`
 
-
-## Running
-
-`./bin/client`
-
 ## License
-Copyright (c) 2014-2016 [Rancher Labs, Inc.](http://rancher.com)
+Copyright (c) 2014-2017 [Rancher Labs, Inc.](http://rancher.com)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
